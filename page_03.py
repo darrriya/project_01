@@ -4,7 +4,7 @@ new_s = ''
 for i in s:
     if i.isdigit() is True:
         new_s += i
-     else :
+     else:
          pass 
 
 print(new_s)
